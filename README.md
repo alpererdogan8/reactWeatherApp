@@ -1,4 +1,4 @@
-To get an api key, please visit https://home.openweathermap.org/api_keys 
+To get an api key, please visit https://home.openweathermap.org/api_keys <br />
 Add .env file in ###`REACT_APP_WEATHER_API_KEY=<YOUR_KEY>`
 
 ## Available Scripts
