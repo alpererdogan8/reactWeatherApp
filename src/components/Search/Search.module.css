@@ -1,0 +1,21 @@
+.search{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.search input[type="text"] {
+  width: 350px;
+  height: 67px;
+  border: 8px solid black;
+  border-radius: 100px;
+  text-align: center;
+  font-size: 2rem;
+}
+.search input[type="text"]:focus {
+  border-color: #6c00d1;
+  outline: none;
+  box-shadow: 0 0 15px #8e15ff;
+}
